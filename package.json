@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "App created as a part of Udemy NodeJS course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakumar-codes/weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityakumar-codes/weather-app/issues"
+  },
+  "homepage": "https://github.com/adityakumar-codes/weather-app#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
